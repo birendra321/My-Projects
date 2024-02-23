@@ -14,6 +14,7 @@ const ContactForm = () => {
       <div className="mt-7">
         <ContactUsForm />
       </div>
+       <div/>
     </div>
   );
 };
